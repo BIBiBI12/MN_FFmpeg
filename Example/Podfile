@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MN_FFmpeg_Example' do
+  pod 'MN_FFmpeg', :path => '../'
+
+
+end

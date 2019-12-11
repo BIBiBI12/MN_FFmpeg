@@ -1,0 +1,6 @@
+framework module MN_FFmpeg {
+  umbrella header "MN_FFmpeg-umbrella.h"
+
+  export *
+  module * { export * }
+}

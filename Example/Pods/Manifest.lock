@@ -1,0 +1,18 @@
+PODS:
+  - MN_FFmpeg (0.0.1):
+    - MN_FFmpeg/precompiled (= 0.0.1)
+  - MN_FFmpeg/precompiled (0.0.1)
+
+DEPENDENCIES:
+  - MN_FFmpeg (from `../`)
+
+EXTERNAL SOURCES:
+  MN_FFmpeg:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MN_FFmpeg: a4d307153607db6b6d36e8b512c4a3af23ed21f2
+
+PODFILE CHECKSUM: d5261876f0a224f2d3a5690079adc5fbf7f5cf36
+
+COCOAPODS: 1.7.1
